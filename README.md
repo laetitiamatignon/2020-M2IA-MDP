@@ -6,7 +6,7 @@ Laëtitia Matignon
 ## Partie 1: Planification stochastique
 
 
-- Cours et TD sont disponibles sur <a href="https://perso.liris.cnrs.fr/laetitia.matignon/index/M2IASMA/>ce lien</a>.
+- Cours et TD sont disponibles sur <a href="https://perso.liris.cnrs.fr/laetitia.matignon/index/M2IASMA/"> ce lien</a>.
 
 ### TP1
 
@@ -19,7 +19,7 @@ Vous trouverez des explications pour démarrer le TP1 :
 
 ## Partie 2: Apprentissage par renforcement
 
-- Cours disponible sur <a href="https://perso.liris.cnrs.fr/laetitia.matignon/index/M2IASMA/>ce lien</a>.
+- Cours disponible sur <a href="https://perso.liris.cnrs.fr/laetitia.matignon/index/M2IASMA/">ce lien</a>.
 
 
 ### TP2
